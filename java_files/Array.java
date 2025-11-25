@@ -1,4 +1,4 @@
-public class 2dArray{
+class Array{
 public static void main(String[] args) {
 int[][] matrix = {
 {10, 20},
